@@ -1,0 +1,4 @@
+C:\POO\AccesoaDBporConsola\AccesoaDBporConsola\bin\Debug\AccesoaDBporConsola.exe
+C:\POO\AccesoaDBporConsola\AccesoaDBporConsola\bin\Debug\AccesoaDBporConsola.pdb
+C:\POO\AccesoaDBporConsola\AccesoaDBporConsola\obj\x86\Debug\AccesoaDBporConsola.exe
+C:\POO\AccesoaDBporConsola\AccesoaDBporConsola\obj\x86\Debug\AccesoaDBporConsola.pdb

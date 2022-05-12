@@ -1,0 +1,7 @@
+C:\POO\AccesoDB\AccesoDB\bin\Debug\AccesoDB.exe
+C:\POO\AccesoDB\AccesoDB\bin\Debug\AccesoDB.pdb
+C:\POO\AccesoDB\AccesoDB\obj\x86\Debug\AccesoDB.Form1.resources
+C:\POO\AccesoDB\AccesoDB\obj\x86\Debug\AccesoDB.Properties.Resources.resources
+C:\POO\AccesoDB\AccesoDB\obj\x86\Debug\AccesoDB.csproj.GenerateResource.Cache
+C:\POO\AccesoDB\AccesoDB\obj\x86\Debug\AccesoDB.exe
+C:\POO\AccesoDB\AccesoDB\obj\x86\Debug\AccesoDB.pdb

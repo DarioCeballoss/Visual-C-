@@ -1,0 +1,8 @@
+C:\POO\validacionNumerica\validacionNumerica\bin\Debug\validacionNumerica.exe
+C:\POO\validacionNumerica\validacionNumerica\bin\Debug\validacionNumerica.pdb
+C:\POO\validacionNumerica\validacionNumerica\obj\x86\Debug\validacionNumerica.Form1.resources
+C:\POO\validacionNumerica\validacionNumerica\obj\x86\Debug\validacionNumerica.Properties.Resources.resources
+C:\POO\validacionNumerica\validacionNumerica\obj\x86\Debug\validacionNumerica.csproj.GenerateResource.Cache
+C:\POO\validacionNumerica\validacionNumerica\obj\x86\Debug\validacionNumerica.exe
+C:\POO\validacionNumerica\validacionNumerica\obj\x86\Debug\validacionNumerica.pdb
+C:\POO\validacionNumerica\validacionNumerica\obj\x86\Debug\validacionNumerica.csprojResolveAssemblyReference.cache

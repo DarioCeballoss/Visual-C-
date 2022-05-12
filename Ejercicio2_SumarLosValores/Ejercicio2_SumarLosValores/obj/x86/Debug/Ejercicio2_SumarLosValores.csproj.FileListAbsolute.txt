@@ -1,0 +1,7 @@
+C:\POO\Ejercicio2_SumarLosValores\Ejercicio2_SumarLosValores\bin\Debug\Ejercicio2_SumarLosValores.exe
+C:\POO\Ejercicio2_SumarLosValores\Ejercicio2_SumarLosValores\bin\Debug\Ejercicio2_SumarLosValores.pdb
+C:\POO\Ejercicio2_SumarLosValores\Ejercicio2_SumarLosValores\obj\x86\Debug\Ejercicio2_SumarLosValores.Form1.resources
+C:\POO\Ejercicio2_SumarLosValores\Ejercicio2_SumarLosValores\obj\x86\Debug\Ejercicio2_SumarLosValores.Properties.Resources.resources
+C:\POO\Ejercicio2_SumarLosValores\Ejercicio2_SumarLosValores\obj\x86\Debug\Ejercicio2_SumarLosValores.csproj.GenerateResource.Cache
+C:\POO\Ejercicio2_SumarLosValores\Ejercicio2_SumarLosValores\obj\x86\Debug\Ejercicio2_SumarLosValores.exe
+C:\POO\Ejercicio2_SumarLosValores\Ejercicio2_SumarLosValores\obj\x86\Debug\Ejercicio2_SumarLosValores.pdb

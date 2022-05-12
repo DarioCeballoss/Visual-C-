@@ -1,0 +1,7 @@
+C:\POO\ejemploMultihilos\ejemploMultihilos\bin\Debug\ejemploMultihilos.exe
+C:\POO\ejemploMultihilos\ejemploMultihilos\bin\Debug\ejemploMultihilos.pdb
+C:\POO\ejemploMultihilos\ejemploMultihilos\obj\x86\Debug\ejemploMultihilos.Form1.resources
+C:\POO\ejemploMultihilos\ejemploMultihilos\obj\x86\Debug\ejemploMultihilos.Properties.Resources.resources
+C:\POO\ejemploMultihilos\ejemploMultihilos\obj\x86\Debug\ejemploMultihilos.csproj.GenerateResource.Cache
+C:\POO\ejemploMultihilos\ejemploMultihilos\obj\x86\Debug\ejemploMultihilos.exe
+C:\POO\ejemploMultihilos\ejemploMultihilos\obj\x86\Debug\ejemploMultihilos.pdb

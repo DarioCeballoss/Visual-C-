@@ -1,0 +1,4 @@
+C:\POO\TrabajndoAdosHilos\TrabajndoAdosHilos\bin\Debug\TrabajndoAdosHilos.exe
+C:\POO\TrabajndoAdosHilos\TrabajndoAdosHilos\bin\Debug\TrabajndoAdosHilos.pdb
+C:\POO\TrabajndoAdosHilos\TrabajndoAdosHilos\obj\x86\Debug\TrabajndoAdosHilos.exe
+C:\POO\TrabajndoAdosHilos\TrabajndoAdosHilos\obj\x86\Debug\TrabajndoAdosHilos.pdb

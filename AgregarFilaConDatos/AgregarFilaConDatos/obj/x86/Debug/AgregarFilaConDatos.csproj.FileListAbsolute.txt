@@ -1,0 +1,7 @@
+C:\POO\AgregarFilaConDatos\AgregarFilaConDatos\bin\Debug\AgregarFilaConDatos.exe
+C:\POO\AgregarFilaConDatos\AgregarFilaConDatos\bin\Debug\AgregarFilaConDatos.pdb
+C:\POO\AgregarFilaConDatos\AgregarFilaConDatos\obj\x86\Debug\AgregarFilaConDatos.Form1.resources
+C:\POO\AgregarFilaConDatos\AgregarFilaConDatos\obj\x86\Debug\AgregarFilaConDatos.Properties.Resources.resources
+C:\POO\AgregarFilaConDatos\AgregarFilaConDatos\obj\x86\Debug\AgregarFilaConDatos.csproj.GenerateResource.Cache
+C:\POO\AgregarFilaConDatos\AgregarFilaConDatos\obj\x86\Debug\AgregarFilaConDatos.exe
+C:\POO\AgregarFilaConDatos\AgregarFilaConDatos\obj\x86\Debug\AgregarFilaConDatos.pdb

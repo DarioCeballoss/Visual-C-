@@ -1,0 +1,7 @@
+C:\POO\JugandoDataGridView\JugandoDataGridView\bin\Debug\JugandoDataGridView.exe
+C:\POO\JugandoDataGridView\JugandoDataGridView\bin\Debug\JugandoDataGridView.pdb
+C:\POO\JugandoDataGridView\JugandoDataGridView\obj\x86\Debug\JugandoDataGridView.Form1.resources
+C:\POO\JugandoDataGridView\JugandoDataGridView\obj\x86\Debug\JugandoDataGridView.Properties.Resources.resources
+C:\POO\JugandoDataGridView\JugandoDataGridView\obj\x86\Debug\JugandoDataGridView.csproj.GenerateResource.Cache
+C:\POO\JugandoDataGridView\JugandoDataGridView\obj\x86\Debug\JugandoDataGridView.exe
+C:\POO\JugandoDataGridView\JugandoDataGridView\obj\x86\Debug\JugandoDataGridView.pdb
